@@ -1,0 +1,12 @@
+In this project, we conducted a comprehensive analysis of sports articles from The New Times. The project was structured in two main phases:
+
+Web Scraping: Using Python and BeautifulSoup, we collected raw sports-related article data.
+Data Cleaning and Visualization: We processed the collected data for analysis, cleaned the text, and visualized.
+
+this website of New Times Sports is containing the more information about the job subscribers and other things but we need especially those words related to sports only.
+here our Data Cleaning Process
+We performed several steps to prepare the scraped data for analysis:
+
+Removed punctuation and special characters
+Normalized whitespace
+Converted all text to lowercase
